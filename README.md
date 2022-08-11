@@ -10,3 +10,6 @@ this is supposed to be a paragraph, so don't mind any changes here am just tryin
 this should not be catched
 
 yay it works!
+
+
+this should be picked automatically
